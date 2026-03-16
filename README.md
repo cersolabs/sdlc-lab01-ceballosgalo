@@ -20,17 +20,18 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 2. ¿Qué significa que un desarrollo sea dirigido por un plan?
 
-   R: 
+   R: Signifca que el desarrollo sigue un plan con etapas definidas, donde se organiza el trabajo antes de empezar
 
 3. ¿Cuáles son las ventajas de utilizar un plan de desarrollo?
 
-   R:
+   R: Ayuda a organizar mejor el proyecto, facilita en recursos y tiempo
+y permite tener mejor entendimiento del proyecto y como se va a llevar
 
-4. ¿Qué críticas se hacen a los modelos tradicionales de desarrollo?
+5. ¿Qué críticas se hacen a los modelos tradicionales de desarrollo?
 
-   R:
+   R: Mayormente que son lentos
 
-5. ¿Por qué en la práctica muchas organizaciones combinan metodologías ágiles y modelos dirigidos por un plan?
+6. ¿Por qué en la práctica muchas organizaciones combinan metodologías ágiles y modelos dirigidos por un plan?
 
    R: 
 
