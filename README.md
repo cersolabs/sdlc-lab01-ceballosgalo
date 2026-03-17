@@ -29,11 +29,11 @@ y permite tener mejor entendimiento del proyecto y como se va a llevar
 
 5. ¿Qué críticas se hacen a los modelos tradicionales de desarrollo?
 
-   R: Mayormente que son lentos
+   R: Mayormente que son lentos cuando requien cambios y aparte no permiten tampoco muchos cambios
 
 6. ¿Por qué en la práctica muchas organizaciones combinan metodologías ágiles y modelos dirigidos por un plan?
 
-   R: 
+   R: Porque así pueden tener organización y planificación, pero también adaptarse a cambios durante el desarrollo.
 
 
 ### Actividad 2
@@ -114,7 +114,7 @@ Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
 Indique si las siguientes afirmaciones son Verdaderas (V) o Falsas (F). ***marcar con x la verdaderas, dejar en blanco las falsas***
 
 1. [ ] El modelo en cascada permite cambios constantes en los requerimientos.
-2. [ ] El modelo incremental entrega el sistema en varias versiones.
-3. [ ] Un prototipo se utiliza para comprender mejor los requerimientos.
-4. [ ] El modelo RAD busca reducir los tiempos de desarrollo.
-5. [ ] El modelo en espiral incorpora el análisis de riesgos.
+2. [x] El modelo incremental entrega el sistema en varias versiones.
+3. [x] Un prototipo se utiliza para comprender mejor los requerimientos.
+4. [x] El modelo RAD busca reducir los tiempos de desarrollo.
+5. [x] El modelo en espiral incorpora el análisis de riesgos.
