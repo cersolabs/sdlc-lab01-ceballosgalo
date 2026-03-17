@@ -40,23 +40,24 @@ y permite tener mejor entendimiento del proyecto y como se va a llevar
 
 | Etapa                         | Descripción |
 | ----------------------------- | ----------- |
-| Análisis                      |             |
-| Diseño                        |             |
-| Codificación                  |             |
-| Prueba                        |             |
-| Puesta en marcha / Despliegue |             |
+| Análisis                      |Se identifican y anotan las especificaciones del sistema|
+| Diseño                        |Se define como funcionara el sistema y su estructura|
+| Codificación                  |Se escribe el código del programa|
+| Prueba                        |Se verifica que todo este funcional y correcto|
+| Puesta en marcha / Despliegue |Se publica y se empieza a instalar|
 
 
 * Luego responda:
   * ¿En qué etapa se obtienen los requerimientos del sistema?
     
-    R:
+    R:Analsis
   * ¿En qué etapa se construye el programa?
 
-    R:
+    R:Codificacion
   * ¿Cuál es el objetivo principal de las pruebas?
     
-    R:
+    R:Detectar errores y verificar que todo ande correctamente
+    
 ### Actividad 3
 Ordene las siguientes etapas según corresponda  Diseño
 -al modelo lineal secuencial:
